@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">02. Dice Roll Layout</string>
+    <string name="textview_name">Harish</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio_text">This is sample text</string>
+    <string name="nickname">What is your nickname</string>
+</resources>
